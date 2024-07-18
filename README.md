@@ -1,4 +1,4 @@
-# Elderly_driver_traffic_accident_project
+# Elderly driver traffic accident project
 ### Elderly drivers' traffic accident data analysis team project
 - Code
 - data
